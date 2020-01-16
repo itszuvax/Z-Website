@@ -92,7 +92,8 @@ h1{
   font-size: 150px;
   box-sizing: content-box;
   border: none;
-  font: normal 65px/normal "Chau Philomene One", sans-serif;
+  font-family: Helvetica;
+  font-size: 150px;
   color: rgb(255, 255, 255);
   text-overflow: clip;
   text-shadow: -3px 0 1px rgb(0,191,255) , 3px 0 1px rgb(255,0,0);
