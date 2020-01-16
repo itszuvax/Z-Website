@@ -1,2 +1,2 @@
 # Z-Website
-Public website for myself
+https://itszuvax.github.io/ Access to website
