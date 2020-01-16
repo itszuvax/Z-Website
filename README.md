@@ -1,2 +1,2 @@
 # Z-Website
-https://itszuvax.github.io/ Access to website
+https://itszuvax.github.io/Z-Website/ Access to website
