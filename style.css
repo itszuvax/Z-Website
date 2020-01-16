@@ -1,0 +1,16 @@
+h1 {
+  letter-spacing: 4px;
+  font-size: 4em;
+  box-sizing: content-box;
+  border: none;
+  font: normal 65px/normal "Chau Philomene One", sans-serif;
+  color: rgb(255, 255, 255);
+  text-overflow: clip;
+  text-shadow: -3px 0 1px rgb(0,191,255) , 3px 0 1px rgb(255,0,0);
+  transition: all 0.25s;
+}
+h1:hover {
+  color: rgb(0, 0, 0);
+  transition: all 0.3s;
+  cursor: default;
+}
